@@ -1,0 +1,6 @@
+What happens when you initialize a repository? 
+Why do you need to do it?
+
+> Para criar os ficheiros git necessários ao 
+funcionamento da framework e assim preparar esta 
+pasta para funcionar com version-control
