@@ -4,3 +4,8 @@ Why do you need to do it?
 > Para criar os ficheiros git necessários ao 
 funcionamento da framework e assim preparar esta 
 pasta para funcionar com version-control
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+> Serve como intermediário, possibilitando a construção cuidada e organizada de um conjunto de ficheiros para se fazer o commit
+
