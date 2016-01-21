@@ -5,3 +5,7 @@ When would you want to use a remote repository rather than keeping all your work
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 >Para evitar partilhar commits que ainda não tenho a certeza que estão prontos
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+>Um fork é um clone criado nos servidores GitHub. Quer isto dizer que é uma copia de uma diretorio de outra pessoa para a minha conta. Um clone é uma copia de um repositório no GitHub para um diretorio local. Um branch é uma versão alternativa de um programa guardada em paralelo com a principal (master). Exemplos: fazer fork de um diretorio de outra pessoa para a minha conta, clonar a pasta criada na minha conta para uma pasta local no meu computador e depois criar um branch para introduzir alterações ao meu gosto ao master criado por outrem.
